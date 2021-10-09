@@ -7,7 +7,7 @@ namespace actividad2
         static void Main(string[] args)
         {
             int num;
-            Console.WriteLine("digite un numero para hacer un cuadra a partir de ese dato");
+            Console.WriteLine("digite un numero para hacer un cuadrado a partir de ese dato");
             num = int.Parse(Console.ReadLine());
             for (int i = 0; i < num; i++)
             {
