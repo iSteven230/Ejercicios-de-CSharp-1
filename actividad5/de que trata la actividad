@@ -1,0 +1,7 @@
+5. Crear el programa asteriscos4 en el que se introduce un número entero y se crea una pirámide de asteriscos. 
+Por ejemplo, si se introduce el 6, el resultado sería:
+         *
+        ***
+       *****
+      *******
+     *********
