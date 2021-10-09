@@ -2,10 +2,10 @@
 
 namespace actividad5
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
+	class Program
+	{
+		static void Main(string[] args)
+		{
 			int a = int.Parse(Console.ReadLine());
 			for (int y = 1; y <= a; y++)
 			{
@@ -25,6 +25,6 @@ namespace actividad5
 				}
 				Console.WriteLine();
 			}
-        }
-    }
+		}
+	}
 }
